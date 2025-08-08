@@ -53,6 +53,3 @@ Este proyecto me permitió comprender la importancia de:
 * **El poder de la IA como herramienta de apoyo:** Utilizar la IA para simplificar conceptos complejos y generar código base.
 * **El flujo de trabajo completo de un proyecto de Machine Learning:** Desde la exploración de datos hasta la evaluación del modelo.
 
----
-
-Espero que este `README` te sea de gran utilidad para presentar tu proyecto de manera clara y profesional en GitHub. ¡Felicidades por tu excelente trabajo!
